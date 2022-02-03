@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--
-**KirillTopchy/KirillTopchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a C # / .Net developer with my view of things. Life is one big learning process in which I also take an active part. Here you can view my personal and training projects.
+
+
 
 Here are some ideas to get you started:
 
