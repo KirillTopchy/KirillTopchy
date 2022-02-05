@@ -12,8 +12,8 @@ I am C # / .Net developer with positive attitude and responsible approach. Form 
 ---
 
 Some of my projects:
-- 💥 [Minesweeper Project (C# / .Net/ WinForms)](https://github.com/KirillTopchy/c-sharp-syllabus-KirillTopchy/tree/main/csharp-basics/exercises/MiniProjects/Minesweeper)
-- 🔢 [Sudoku Project (C# / .Net/ WinForms)](https://github.com/KirillTopchy/SudokuProject)
+- 💥 [Minesweeper Project (C# / .Net, Unit Testing, WinForms)](https://github.com/KirillTopchy/c-sharp-syllabus-KirillTopchy/tree/main/csharp-basics/exercises/MiniProjects/Minesweeper)
+- 🔢 [Sudoku Project (C# / .Net, WinForms)](https://github.com/KirillTopchy/SudokuProject)
 - ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/KirillTopchy/FlightPlanner)
 - 🚧 [ScootersRental (C# / .Net, Unit Testing)](https://github.com/KirillTopchy/ScooterRentalService)
 
