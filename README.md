@@ -1,5 +1,4 @@
-<h2>Hi there, I'm Kirill <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h2>
+<h2>Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />, I'm Kirill </h2>
 
 I am C # / .Net developer with a positive attitude and a responsible approach. For me, life is all about learning and discovering new things. Here you can view some of my training projects.
 
