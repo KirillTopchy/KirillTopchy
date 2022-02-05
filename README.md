@@ -12,16 +12,13 @@ I am C # / .Net developer with positive attitude and responsible approach. Form 
 ---
 
 Some of my projects:
-- ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/ottovisocks/Flight-planner)
-- ⚡ [ReactApp Places (Frontend)(React, JS, HTML, CSS)](https://github.com/ottovisocks/reactApp_Places)
-- 📕 [Contact Book (ASP.NET Core, MVC, Entity Framework, Microsoft SQL Server)](https://github.com/ottovisocks/Contact-Book-MVC)
-- 🚧 [ScootersRental (C# / .Net, Unit Testing)](https://github.com/ottovisocks/ScootersRental)
+- ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/KirillTopchy/FlightPlanner)
+- 🚧 [ScootersRental (C# / .Net, Unit Testing)](https://github.com/KirillTopchy/ScooterRentalService)
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottovisocks&hide_title=true&layout=compact)](https://github.com/ottovisocks?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillTopchy&hide_title=true&layout=compact)](https://github.com/KirillTopchy?tab=repositories)
 
 <!--
-**ottovisocks/ottovisocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
