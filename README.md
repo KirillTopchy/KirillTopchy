@@ -11,6 +11,7 @@ I am C # / .Net developer with a positive attitude and a responsible approach. F
 ---
 
 Some of my projects:
+- 🏖️ [Leave Management System (C# / ASP.NET Core, Entity Framework, Microsoft SQL Server, MVC, DI, ASP.NET Core Identity)](https://github.com/KirillTopchy/LeaveManagementNet6WebProject)
 - 📚 [My Books Project (C# / .NET Core, Web API, Entity Framework, Microsoft SQL Server, Unit Testing)](https://github.com/KirillTopchy/NetCoreWebApiMyBooks)
 - 💥 [Minesweeper Project (C# / .Net, Unit Testing, WinForms)](https://github.com/KirillTopchy/c-sharp-syllabus-KirillTopchy/tree/main/csharp-basics/exercises/MiniProjects/Minesweeper)
 - 🔢 [Sudoku Project (C# / .Net, WinForms)](https://github.com/KirillTopchy/SudokuProject)
